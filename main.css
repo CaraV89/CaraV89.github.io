@@ -1,34 +1,41 @@
+.Self { 
+ width: 400px;
+}
+
 h1 {
-  color: teal;
-  font-size: 4em;
+  color: whitesmoke;
+  font-size: 5em;
   text-align: center;
+ 
 }
 
 p {
-  color: gray;
+  color: lightgray;
   font-size: 2em;
   text-align: center;
+  
 }
 
 img {
   width: 300px;
   position: relative;
-    left: 36%;
-}
-
-img.galleryimage {
-  width: 300px;
-}
-
-li {
-  font-size: 2em;
-  color: teal;
-  position: relative;
-    left: 43%;
+    left: 50%;
 }
 
 h2 {
-  color: teal;
+  color: aquamarine;
   font-size: 2em;
-  text-align: center;
+  text-align: center;    
 }
+
+.Food {
+    width: 300px;
+}
+
+h3 {
+  color: white;
+  font-size: 2em;
+  text-align: center;    
+}
+
+
