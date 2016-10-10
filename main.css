@@ -1,8 +1,9 @@
 .Self { 
  width: 300px;
  border-radius: 30px;
- position: absolute;
- margin: 0 auto;
+  display: block;
+    margin: auto;
+    width: 40%;
 }
 
 h1 {
@@ -22,8 +23,9 @@ p {
 img {
   width: 300px;
   border-radius: 30px;
-  position: absolute;
-  margin: 0 auto;
+  display: block;
+    margin: auto;
+    width: 40%;
 }
 
 h2 {
